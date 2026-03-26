@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/icon.png" width="80" alt="Grably Logo">
+  <img src="images/logo.png" width="80" alt="Grably Logo">
 </p>
 
 <h1 align="center">Grably - Advanced Video Downloader</h1>
