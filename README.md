@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icons/icon.ico" width="80" alt="Grably Logo">
+  <img src="images/icon.png" width="80" alt="Grably Logo">
 </p>
 
 <h1 align="center">Grably - Advanced Video Downloader</h1>
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="images/completed download dashboard.png" width="800" alt="Grably Dashboard">
+  <img src="images/dashboard completed.png" width="800" alt="Grably Dashboard">
 </p>
 
 ---
@@ -101,7 +101,7 @@ https://www.facebook.com/username/reels
 Grably auto-detects the platform and fetches all available videos.
 
 <p align="center">
-  <img src="images/settings to customize.webp" width="800" alt="Settings Panel">
+  <img src="settings.png" width="800" alt="Settings Panel">
 </p>
 
 ## Settings
