@@ -55,7 +55,7 @@ Built for **content creators, social media managers, and researchers** who need 
 - **Proxy Support** — Use your own proxy for requests
 
 <p align="center">
-  <img src="images/multpile links at once.webp" width="800" alt="Bulk Download Multiple Links">
+  <img src="images/multpile links at once.png" width="800" alt="Bulk Download Multiple Links">
 </p>
 
 ## Installation
